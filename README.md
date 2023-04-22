@@ -50,10 +50,10 @@ O jogo tem como propósito auxiliar o engajamento de novas pessoas na área de e
 ## **3. Guia de movimentação do jogo**
 - Jogador 1 - Usa as teclas A D W e espaço para fazer sua movimentação.
 - Jogador 2 - Usa as setas do teclado para fazer sua movimentação.
-w e seta para cima - jogadores pulam 
-a e seta para esquerda jogadores andam para trás.
-d e seta para direita jogadores andam para frente.
-espaço e seta para baixo jogadores atacam.
+- w e seta para cima - jogadores pulam 
+- a e seta para esquerda jogadores andam para trás.
+- d e seta para direita jogadores andam para frente.
+- espaço e seta para baixo jogadores atacam.
 
 ## **4. Link do jogo **
 https://jogodeluta-projetodebruno.netlify.app/
