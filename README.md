@@ -29,6 +29,8 @@ O jogo tem como propósito auxiliar o engajamento de novas pessoas na área de e
 - d e seta para direita jogadores andam para frente.
 - espaço e seta para baixo jogadores atacam.
 
-## 4. Link do jogo **
+## 4. Links **
+- 4.1 link do jogo 
 https://jogodeluta-projetodebruno.netlify.app/
-
+- 4.2 link do drive 
+https://drive.google.com/drive/folders/1TMzdomhixc-FoABBdN2vvqx2687FjB3j?usp=sharing
